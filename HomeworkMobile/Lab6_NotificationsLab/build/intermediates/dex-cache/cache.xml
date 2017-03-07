@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThachChiBao\AndroidStudioProjects\Lab6_NotificationsLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="458c921ac806ee9b5690ff46abe1e44a7ff08485">
+        <dex dex="C:\Users\ThachChiBao\AndroidStudioProjects\Lab6_NotificationsLab\app\build\intermediates\pre-dexed\debug\instant-run_f7746a8d336abd080efb0c82dbdd7b798d09ce93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThachChiBao\AndroidStudioProjects\Lab6_NotificationsLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7cd531117f70af6acf4e013f21f9824508d9724b">
+        <dex dex="C:\Users\ThachChiBao\AndroidStudioProjects\Lab6_NotificationsLab\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_eb03c25f9815774a10f1a5c81d1fd3a9e31758d9.jar" />
+    </item>
+
+</items>

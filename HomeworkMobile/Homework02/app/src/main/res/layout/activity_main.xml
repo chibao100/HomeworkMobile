@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.thachchibao.homework02.MainActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:text="Taco Pronto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/image"
+        android:id="@+id/imageView2"
+         />
+
+    <TextView
+        android:text="263 Address: An Duong Vuong,"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_marginLeft="10sp"
+        android:layout_weight="0.09" />
+
+    <TextView
+        android:text="Phone: 5555"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_marginLeft="10sp"
+        android:layout_weight="0.09"/>
+
+    <TextView
+        android:text="Free delivery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:layout_marginLeft="10sp"
+        android:layout_weight="0.09"/>
+
+    <Button
+        android:text="Pick Your Order"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:background="#FF7F50"
+        android:layout_marginTop="30dp"
+        android:onClick="onPickClick" />
+
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThachChiBao\AndroidStudioProjects\Lab5-AsyncTaskLab\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec5b78c45ee98c0787e3eeb9c92ca85cb4ddd880">
+        <dex dex="C:\Users\ThachChiBao\AndroidStudioProjects\Lab5-AsyncTaskLab\app\build\intermediates\pre-dexed\debug\instant-run_8d7ed1e0d1c23f0db0365cdb97e9c510ced82a2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ThachChiBao\AndroidStudioProjects\Lab5-AsyncTaskLab\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="780d309bcedb017b988c6fb2227fe9c43d7178cf">
+        <dex dex="C:\Users\ThachChiBao\AndroidStudioProjects\Lab5-AsyncTaskLab\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3db91981b25aa3678d7a49e4d134332625e13eef.jar" />
+    </item>
+
+</items>
